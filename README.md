@@ -4,9 +4,9 @@
 
 ## 🛠️ Tech Stack
 - **RAG Architecture**: LangChain, OpenAI Embeddings
-- **Vector DB**: Supabase/pgvector
-- **LLM**: GPT-4 for recommendation generation
-- **Data Pipeline**: Python, BeautifulSoup, Newspaper3k
+- **Vector DB**: Supabase/pgvector(currently experimenting with chromaDB)
+- **LLM**: GPT for recommendation generation
+
 
 ## 📌 Key Features
 - Real-time crypto market analysis
